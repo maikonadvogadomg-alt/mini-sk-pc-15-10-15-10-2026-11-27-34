@@ -1,0 +1,17 @@
+{
+  "titulo": "Mini-SK-PC-15-10 15-10-2026, 11-27-34",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon-192.png"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
